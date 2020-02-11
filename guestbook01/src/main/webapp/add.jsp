@@ -15,7 +15,7 @@
 	
 	new GuestbookDao().insert(vo);
 	
-	response.sendRedirect("/guestbook");
+	response.sendRedirect("/guestbook01");
 %>
 <!DOCTYPE html>
 <html>

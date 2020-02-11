@@ -32,7 +32,7 @@
 <body>
 	<script>
 		alert("잘못된 비밀번호입니다.");
-		document.location.href = "/guestbook/deleteform.jsp";
+		document.location.href = "/guestbook01/deleteform.jsp";
 	</script>
 </body>
 </html>
