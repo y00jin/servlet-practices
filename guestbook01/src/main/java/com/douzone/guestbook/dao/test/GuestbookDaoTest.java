@@ -9,7 +9,7 @@ public class GuestbookDaoTest {
 
 	public static void main(String[] args) {
 //		insertTest();
-		deleteTest(1);
+//		deleteTest(1);
 		selectTest();
 	}
 	
