@@ -23,7 +23,6 @@
 			<version>2.4.4</version>
 		</dependency>
 
-
 		<!-- jstl -->
 		<dependency>
 			<groupId>jstl</groupId>
